@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb3ca914-85d4-43d3-8e79-53eb5f1689b0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5-Advanced-JS/._index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5-Advanced-JS/._script.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6-Budgety-Final" afterPath="$PROJECT_DIR$/6-Budgety-Final" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5-Advanced-JS/script.js" afterPath="$PROJECT_DIR$/5-Advanced-JS/script.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6-Budgety-Final/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="56" column="44" lean-forward="true" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="44" />
+            <state relative-caret-position="195">
+              <caret line="14" column="73" lean-forward="false" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -33,8 +31,18 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/6-Budgety-Final/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1439">
-              <caret line="189" column="0" lean-forward="true" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="309" column="84" lean-forward="false" selection-start-line="309" selection-start-column="84" selection-end-line="309" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6-Budgety-Final/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -48,6 +56,14 @@
       <find>active</find>
       <find>winn</find>
       <find>updateData</find>
+      <find>for</find>
+      <find>calculatetotals</find>
+      <find>addItem</find>
+      <find>deleteItem</find>
+      <find>map</find>
+      <find>calculateBudget()</find>
+      <find>html</find>
+      <find>adja</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -76,10 +92,13 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="91" />
-    <option name="y" value="49" />
-    <option name="width" value="1269" />
-    <option name="height" value="808" />
+    <option name="x" value="21" />
+    <option name="y" value="156" />
+    <option name="width" value="1278" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -96,7 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -167,6 +185,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -256,17 +275,19 @@
       <workItem from="1488625350210" duration="5142000" />
       <workItem from="1488684634642" duration="859000" />
       <workItem from="1488698838657" duration="7057000" />
+      <workItem from="1488804893245" duration="7461000" />
+      <workItem from="1489070146889" duration="4316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25027000" />
+    <option name="totallyTimeSpent" value="36804000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="91" y="49" width="1269" height="808" extended-state="0" />
+    <frame x="21" y="156" width="1278" height="730" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21678892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22168285" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -296,11 +317,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/6-Budgety-Final/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="60" lean-forward="false" selection-start-line="97" selection-start-column="44" selection-end-line="97" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-Budgety-Final/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-Budgety-Final/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="44" lean-forward="true" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-Budgety-Final/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5-Advanced-JS/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -324,7 +376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -348,7 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -356,7 +406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -423,7 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,16 +485,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/6-Budgety-Final/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="56" column="44" lean-forward="true" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="44" />
+        <state relative-caret-position="195">
+          <caret line="14" column="73" lean-forward="false" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-Budgety-Final/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/6-Budgety-Final/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1439">
-          <caret line="189" column="0" lean-forward="true" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+        <state relative-caret-position="266">
+          <caret line="309" column="84" lean-forward="false" selection-start-line="309" selection-start-column="84" selection-end-line="309" selection-end-column="84" />
           <folding />
         </state>
       </provider>
